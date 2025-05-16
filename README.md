@@ -26,7 +26,7 @@ This notebook is part of the paper *“Teaching with Open Climate Data in Mathem
 
 ## 🚀 Launch via Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YOUR_USERNAME/climate-trends-plovdiv/HEAD?filepath=ANNUAL_TIMESERIES.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eugeniasarafova/annual-timeseries-plovdiv/38ed9cd099e7579b6a7473b3dd58b2f909edb604?urlpath=lab%2Ftree%2FANNUAL_TIMESERIES.ipynb)
 
 Click the badge above to run the notebook directly in your browser.
 
